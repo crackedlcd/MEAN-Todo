@@ -1,0 +1,24 @@
+{
+  "name": "rest-todo",
+  "version": "0.0.0",
+  "authors": [
+    "crackedlcd <vtorres739@gmail.com>"
+  ],
+  "description": "An introduction to the MEAN stack",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap" :"latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-resource": "latest"
+  }
+}

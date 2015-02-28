@@ -1,0 +1,13 @@
+.finished {
+  text-decoration: line-through;
+  color: lightgrey;
+  font-style: italic;
+}
+
+.container {
+  width: 80%;
+}
+
+.display {
+  margin: 2% 0;
+}
